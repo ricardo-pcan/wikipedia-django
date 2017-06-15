@@ -1,7 +1,7 @@
 version: "2"
 services:
     python:
-      image: python:2.7
+      build: ./conf/python
       working_dir: /app/web
       hostname: "${PROJECT_NAME}_django"
       container_name: "${PROJECT_NAME}_django"
@@ -11,9 +11,9 @@ services:
         - "${PYTHON_PORT}:8000"
       volumes:
         - ./src:/app
-      entrypoint: /app/entrypoint.sh ${REQUERIMENTS_FILE}
+      entrypoint: /app/postinstall.sh ${REQUERIMENTS_FILE}
       links:
-        - postgres:postgres
+        - postgresql:postgres
         - redis:redis
       environment:
         - "DJANGO_SETTINGS_MODULE=${ENVIRONMENT_SETTINGS}"

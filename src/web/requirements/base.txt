@@ -13,3 +13,5 @@ ipython
 django-extensions
 python-slugify
 Werkzeug
+django-dotenv
+djangorestframework-jsonapi
