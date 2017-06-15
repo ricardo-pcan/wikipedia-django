@@ -27,10 +27,10 @@ MIDDLEWARE_CLASSES += (
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'redsep_offline',
-        'USER': 'redsep_offline',
-        'PASSWORD': 'redsep_offline',
-        'HOST': 'postgres',
+        'NAME': os.environ.get("DB_DATABASE"),
+        'USER': os.environ.get("DB_USERNAME"),
+        'HOST': os.environ.get("DB_HOST"),
+        'PASSWORD': os.environ.get("DB_PASSWORD"),
         'PÓRT': 5432
     }
 }

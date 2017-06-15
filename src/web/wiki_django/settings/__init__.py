@@ -49,7 +49,6 @@ THIRD_PARTY_APPS = [
 
 LOCAL_APPS = [
     'redsep_offline',
-    'redsep_offline.meds'
 ]
 
 INSTALLED_APPS += THIRD_PARTY_APPS + LOCAL_APPS
