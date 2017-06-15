@@ -1,0 +1,15 @@
+# Core
+Django>=1.8,<1.9
+django-rest-swagger>=0.3,<0.4
+djangorestframework-jwt>=1.7,<1.8
+djangorestframework>=3.3,<3.4
+drf-nested-routers>=0.10,<0.11
+djangorestframework-camel-case
+psycopg2>=2.6,<2.7
+pillow
+
+# Packages
+ipython
+django-extensions
+python-slugify
+Werkzeug

@@ -1,0 +1,2116 @@
+[
+{
+    "fields": {
+        "name": "-",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.967Z",
+        "created_date": "2017-05-24T18:30:11.967Z",
+        "is_oficial": false,
+        "position": 1,
+        "slug": "tema-familia",
+        "block": 421
+    },
+    "model": "meds.theme",
+    "pk": 1
+},
+{
+    "fields": {
+        "name": "-",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.971Z",
+        "created_date": "2017-05-24T18:30:11.971Z",
+        "is_oficial": false,
+        "position": 1,
+        "slug": "tema-familia",
+        "block": 422
+    },
+    "model": "meds.theme",
+    "pk": 2
+},
+{
+    "fields": {
+        "name": "-",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.974Z",
+        "created_date": "2017-05-24T18:30:11.974Z",
+        "is_oficial": false,
+        "position": 1,
+        "slug": "tema-familia",
+        "block": 423
+    },
+    "model": "meds.theme",
+    "pk": 3
+},
+{
+    "fields": {
+        "name": "-",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.978Z",
+        "created_date": "2017-05-24T18:30:11.978Z",
+        "is_oficial": false,
+        "position": 1,
+        "slug": "tema-familia",
+        "block": 424
+    },
+    "model": "meds.theme",
+    "pk": 4
+},
+{
+    "fields": {
+        "name": "Relaci\u00f3n entre el consumo de sustancias adictivas y los trastornos eventuales y permanentes en el funcionamiento de los sistemas respiratorio",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.375Z",
+        "created_date": "2017-05-24T18:30:24.375Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 246
+    },
+    "model": "meds.theme",
+    "pk": 5
+},
+{
+    "fields": {
+        "name": "Biodiversidad: cantidad y variedad de grupos de seres vivos y de ecosistemas.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.378Z",
+        "created_date": "2017-05-24T18:30:24.378Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 247
+    },
+    "model": "meds.theme",
+    "pk": 6
+},
+{
+    "fields": {
+        "name": "Valoraci\u00f3n de la riqueza natural del pa\u00eds.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.379Z",
+        "created_date": "2017-05-24T18:30:24.379Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 247
+    },
+    "model": "meds.theme",
+    "pk": 7
+},
+{
+    "fields": {
+        "name": "Caracter\u00edsticas de los materiales conductores y aislantes del calor",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.381Z",
+        "created_date": "2017-05-24T18:30:24.381Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 248
+    },
+    "model": "meds.theme",
+    "pk": 8
+},
+{
+    "fields": {
+        "name": "Experimentaci\u00f3n con procesos de transferencia del calor: conducci\u00f3n y convecci\u00f3n en algunos materiales.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.382Z",
+        "created_date": "2017-05-24T18:30:24.382Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 248
+    },
+    "model": "meds.theme",
+    "pk": 9
+},
+{
+    "fields": {
+        "name": "Experimentaci\u00f3n con s\u00f3lidos",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.384Z",
+        "created_date": "2017-05-24T18:30:24.384Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 248
+    },
+    "model": "meds.theme",
+    "pk": 10
+},
+{
+    "fields": {
+        "name": "Medici\u00f3n de la masa y del volumen de diferentes s\u00f3lidos",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.386Z",
+        "created_date": "2017-05-24T18:30:24.386Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 248
+    },
+    "model": "meds.theme",
+    "pk": 11
+},
+{
+    "fields": {
+        "name": "Prevenci\u00f3n de accidentes relacionados con la transferencia del calor.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.387Z",
+        "created_date": "2017-05-24T18:30:24.387Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null,
+        "block": 248
+    },
+    "model": "meds.theme",
+    "pk": 12
+},
+{
+    "fields": {
+        "name": "Procesos de transferencia del calor en la naturaleza: ciclo del agua y corrientes de aire.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.389Z",
+        "created_date": "2017-05-24T18:30:24.389Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null,
+        "block": 248
+    },
+    "model": "meds.theme",
+    "pk": 13
+},
+{
+    "fields": {
+        "name": "Relaci\u00f3n de masa y volumen con objetos de diferentes materiales: madera",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.390Z",
+        "created_date": "2017-05-24T18:30:24.390Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null,
+        "block": 248
+    },
+    "model": "meds.theme",
+    "pk": 14
+},
+{
+    "fields": {
+        "name": "Aplicaciones del circuito el\u00e9ctrico.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.391Z",
+        "created_date": "2017-05-24T18:30:24.391Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 249
+    },
+    "model": "meds.theme",
+    "pk": 15
+},
+{
+    "fields": {
+        "name": "Aportaciones en el conocimiento del Sistema Solar: modelos geoc\u00e9ntrico y helioc\u00e9ntrico.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.393Z",
+        "created_date": "2017-05-24T18:30:24.393Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 249
+    },
+    "model": "meds.theme",
+    "pk": 16
+},
+{
+    "fields": {
+        "name": "Efectos de los sonidos intensos y prevenci\u00f3n de da\u00f1os en la audici\u00f3n.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.394Z",
+        "created_date": "2017-05-24T18:30:24.394Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 249
+    },
+    "model": "meds.theme",
+    "pk": 17
+},
+{
+    "fields": {
+        "name": "Funcionamiento de un circuito el\u00e9ctrico y sus componentes \u2013pila",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.396Z",
+        "created_date": "2017-05-24T18:30:24.396Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 249
+    },
+    "model": "meds.theme",
+    "pk": 18
+},
+{
+    "fields": {
+        "name": "Materiales conductores y aislantes de la corriente el\u00e9ctrica.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.398Z",
+        "created_date": "2017-05-24T18:30:24.398Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null,
+        "block": 249
+    },
+    "model": "meds.theme",
+    "pk": 19
+},
+{
+    "fields": {
+        "name": "Modelaci\u00f3n del Sistema Solar: Sol",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.399Z",
+        "created_date": "2017-05-24T18:30:24.399Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null,
+        "block": 249
+    },
+    "model": "meds.theme",
+    "pk": 20
+},
+{
+    "fields": {
+        "name": "Movimiento de los objetos con base en el punto de referencia",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.401Z",
+        "created_date": "2017-05-24T18:30:24.401Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null,
+        "block": 249
+    },
+    "model": "meds.theme",
+    "pk": 21
+},
+{
+    "fields": {
+        "name": "Propagaci\u00f3n del sonido en diferentes medios: s\u00f3lidos \u2013cuerdas",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.402Z",
+        "created_date": "2017-05-24T18:30:24.402Z",
+        "is_oficial": true,
+        "position": 8,
+        "slug": null,
+        "block": 249
+    },
+    "model": "meds.theme",
+    "pk": 22
+},
+{
+    "fields": {
+        "name": "Proyecto estudiantil para integrar y aplicar aprendizajes esperados y las competencias. Aplicaci\u00f3n de conocimiento cient\u00edfico y tecnol\u00f3gico. \u00bfC\u00f3mo funcionan los instrumentos musicales de cuerda y percusiones?",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.403Z",
+        "created_date": "2017-05-24T18:30:24.403Z",
+        "is_oficial": true,
+        "position": 9,
+        "slug": null,
+        "block": 249
+    },
+    "model": "meds.theme",
+    "pk": 23
+},
+{
+    "fields": {
+        "name": "Rapidez: relaci\u00f3n entre la distancia recorrida y el tiempo empleado.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.405Z",
+        "created_date": "2017-05-24T18:30:24.405Z",
+        "is_oficial": true,
+        "position": 10,
+        "slug": null,
+        "block": 249
+    },
+    "model": "meds.theme",
+    "pk": 24
+},
+{
+    "fields": {
+        "name": "Relaci\u00f3n de la propagaci\u00f3n del sonido con el funcionamiento del o\u00eddo.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.406Z",
+        "created_date": "2017-05-24T18:30:24.406Z",
+        "is_oficial": true,
+        "position": 11,
+        "slug": null,
+        "block": 249
+    },
+    "model": "meds.theme",
+    "pk": 25
+},
+{
+    "fields": {
+        "name": "Relaci\u00f3n de la vibraci\u00f3n de los materiales con la propagaci\u00f3n del sonido.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.408Z",
+        "created_date": "2017-05-24T18:30:24.408Z",
+        "is_oficial": true,
+        "position": 12,
+        "slug": null,
+        "block": 249
+    },
+    "model": "meds.theme",
+    "pk": 26
+},
+{
+    "fields": {
+        "name": "Transformaciones de la electricidad en la vida cotidiana.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.410Z",
+        "created_date": "2017-05-24T18:30:24.410Z",
+        "is_oficial": true,
+        "position": 13,
+        "slug": null,
+        "block": 249
+    },
+    "model": "meds.theme",
+    "pk": 27
+},
+{
+    "fields": {
+        "name": "Proyecto: Preguntas opcionales: Aplicaci\u00f3n de conocimiento cient\u00edfico y tecnol\u00f3gico. \u00bfC\u00f3mo podemos construir una l\u00e1mpara de mano o un timbre el\u00e9ctrico?",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.411Z",
+        "created_date": "2017-05-24T18:30:24.411Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 250
+    },
+    "model": "meds.theme",
+    "pk": 28
+},
+{
+    "fields": {
+        "name": "Organizacio\u0301n de pa\u0301rrafos con oracio\u0301n to\u0301pico y oraciones de apoyo. ",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.413Z",
+        "created_date": "2017-05-24T18:30:24.413Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 236
+    },
+    "model": "meds.theme",
+    "pk": 29
+},
+{
+    "fields": {
+        "name": "Puntuacio\u0301n convencional al usar nexos (cuando",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.414Z",
+        "created_date": "2017-05-24T18:30:24.414Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 236
+    },
+    "model": "meds.theme",
+    "pk": 30
+},
+{
+    "fields": {
+        "name": "Signos de puntuaci\u00f3n para organizar las unidades textuales: puntos para separar oraciones",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.416Z",
+        "created_date": "2017-05-24T18:30:24.416Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 236
+    },
+    "model": "meds.theme",
+    "pk": 31
+},
+{
+    "fields": {
+        "name": "Informaci\u00f3n relevante en los textos para resolver inquietudes espec\u00edficas.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.417Z",
+        "created_date": "2017-05-24T18:30:24.417Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 237
+    },
+    "model": "meds.theme",
+    "pk": 32
+},
+{
+    "fields": {
+        "name": "Lectura para identificar informaci\u00f3n espec\u00edfica.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.419Z",
+        "created_date": "2017-05-24T18:30:24.419Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 237
+    },
+    "model": "meds.theme",
+    "pk": 33
+},
+{
+    "fields": {
+        "name": "Ortograf\u00eda y puntuaci\u00f3n convencionales.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.420Z",
+        "created_date": "2017-05-24T18:30:24.420Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 237
+    },
+    "model": "meds.theme",
+    "pk": 34
+},
+{
+    "fields": {
+        "name": "Palabras clave para localizar informaci\u00f3n y hacer predicciones sobre el contenido de un texto.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.422Z",
+        "created_date": "2017-05-24T18:30:24.422Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 237
+    },
+    "model": "meds.theme",
+    "pk": 35
+},
+{
+    "fields": {
+        "name": "Uso convencional de las may\u00fasculas.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.423Z",
+        "created_date": "2017-05-24T18:30:24.423Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null,
+        "block": 237
+    },
+    "model": "meds.theme",
+    "pk": 36
+},
+{
+    "fields": {
+        "name": "Caracter\u00edsticas y funci\u00f3n de cuadros sin\u00f3pticos y mapas conceptuales.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.425Z",
+        "created_date": "2017-05-24T18:30:24.425Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 238
+    },
+    "model": "meds.theme",
+    "pk": 37
+},
+{
+    "fields": {
+        "name": "Criterios de clasificaci\u00f3n de un conjunto de informaciones.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.426Z",
+        "created_date": "2017-05-24T18:30:24.426Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 238
+    },
+    "model": "meds.theme",
+    "pk": 38
+},
+{
+    "fields": {
+        "name": "Informaci\u00f3n que se presenta en cuadros sin\u00f3pticos y mapas conceptuales.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.428Z",
+        "created_date": "2017-05-24T18:30:24.428Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 238
+    },
+    "model": "meds.theme",
+    "pk": 39
+},
+{
+    "fields": {
+        "name": "Significado de palabras desconocidas a trave\u0301s del contexto.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.430Z",
+        "created_date": "2017-05-24T18:30:24.430Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 238
+    },
+    "model": "meds.theme",
+    "pk": 40
+},
+{
+    "fields": {
+        "name": "Cohesi\u00f3n de los textos.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.431Z",
+        "created_date": "2017-05-24T18:30:24.431Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 239
+    },
+    "model": "meds.theme",
+    "pk": 41
+},
+{
+    "fields": {
+        "name": "Distinci\u00f3n entre datos",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.433Z",
+        "created_date": "2017-05-24T18:30:24.433Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 239
+    },
+    "model": "meds.theme",
+    "pk": 42
+},
+{
+    "fields": {
+        "name": "Formas de citar",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.434Z",
+        "created_date": "2017-05-24T18:30:24.434Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 239
+    },
+    "model": "meds.theme",
+    "pk": 43
+},
+{
+    "fields": {
+        "name": "Formato y funcio\u0301n de tablas de datos y gra\u0301ficas de frecuencias.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.436Z",
+        "created_date": "2017-05-24T18:30:24.436Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 239
+    },
+    "model": "meds.theme",
+    "pk": 44
+},
+{
+    "fields": {
+        "name": "Informacio\u0301n contenida en tablas y gra\u0301ficas",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.438Z",
+        "created_date": "2017-05-24T18:30:24.438Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null,
+        "block": 239
+    },
+    "model": "meds.theme",
+    "pk": 45
+},
+{
+    "fields": {
+        "name": "Informaci\u00f3n contenida en tablas y gr\u00e1ficas.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.439Z",
+        "created_date": "2017-05-24T18:30:24.439Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null,
+        "block": 239
+    },
+    "model": "meds.theme",
+    "pk": 46
+},
+{
+    "fields": {
+        "name": "Nexos para indicar orden y relaci\u00f3n l\u00f3gica de ideas (primero",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.441Z",
+        "created_date": "2017-05-24T18:30:24.441Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null,
+        "block": 239
+    },
+    "model": "meds.theme",
+    "pk": 47
+},
+{
+    "fields": {
+        "name": "Recursos de apoyo empleados en los arti\u0301culos de divulgacio\u0301n: tablas y gra\u0301ficas de datos",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.442Z",
+        "created_date": "2017-05-24T18:30:24.442Z",
+        "is_oficial": true,
+        "position": 8,
+        "slug": null,
+        "block": 239
+    },
+    "model": "meds.theme",
+    "pk": 48
+},
+{
+    "fields": {
+        "name": "S\u00edntesis de informaci\u00f3n a trav\u00e9s de la elaboraci\u00f3n de conclusiones",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.444Z",
+        "created_date": "2017-05-24T18:30:24.444Z",
+        "is_oficial": true,
+        "position": 9,
+        "slug": null,
+        "block": 239
+    },
+    "model": "meds.theme",
+    "pk": 49
+},
+{
+    "fields": {
+        "name": "Empleo del lenguaje para describir.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.446Z",
+        "created_date": "2017-05-24T18:30:24.446Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 240
+    },
+    "model": "meds.theme",
+    "pk": 50
+},
+{
+    "fields": {
+        "name": "Formas de describir personas en funcio\u0301n de un propo\u0301sito.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.447Z",
+        "created_date": "2017-05-24T18:30:24.447Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 240
+    },
+    "model": "meds.theme",
+    "pk": 51
+},
+{
+    "fields": {
+        "name": "Inferencias a partir de la descripci\u00f3n.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.449Z",
+        "created_date": "2017-05-24T18:30:24.449Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 240
+    },
+    "model": "meds.theme",
+    "pk": 52
+},
+{
+    "fields": {
+        "name": "Organizaci\u00f3n de informaci\u00f3n en tablas de datos",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.450Z",
+        "created_date": "2017-05-24T18:30:24.450Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 240
+    },
+    "model": "meds.theme",
+    "pk": 53
+},
+{
+    "fields": {
+        "name": "Recopilacio\u0301n y seleccio\u0301n de informacio\u0301n",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.451Z",
+        "created_date": "2017-05-24T18:30:24.451Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null,
+        "block": 240
+    },
+    "model": "meds.theme",
+    "pk": 54
+},
+{
+    "fields": {
+        "name": "Verbos",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.453Z",
+        "created_date": "2017-05-24T18:30:24.453Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null,
+        "block": 240
+    },
+    "model": "meds.theme",
+    "pk": 55
+},
+{
+    "fields": {
+        "name": "Qu\u00e9 asuntos sobre mi persona tienen que ver con mi futuro y sobre cu\u00e1les debo responsabilizarme. Qu\u00e9 capacidad ten go de elegir mis actividades cotidianas. Cu\u00e1les de mis actividades diarias definen mi forma de ser.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.454Z",
+        "created_date": "2017-05-24T18:30:24.454Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 251
+    },
+    "model": "meds.theme",
+    "pk": 56
+},
+{
+    "fields": {
+        "name": "Qu\u00e9 estereotipos de ni\u00f1ez y adolescencia predominan en la actualidad en los medios de comunicaci\u00f3n. Qui\u00e9nes eligen los rasgos f\u00edsicos que les caracteriza. Qu\u00e9 pienso respecto a las bromas entre compa\u00f1eros relacionadas con el aspecto f\u00edsico.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.456Z",
+        "created_date": "2017-05-24T18:30:24.456Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 251
+    },
+    "model": "meds.theme",
+    "pk": 57
+},
+{
+    "fields": {
+        "name": "C\u00f3mo podemos expresar lo que sentimos y pensamos sin alterar a los dem\u00e1s. Por qu\u00e9 hay situaciones",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.458Z",
+        "created_date": "2017-05-24T18:30:24.458Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 252
+    },
+    "model": "meds.theme",
+    "pk": 58
+},
+{
+    "fields": {
+        "name": "C\u00f3mo podemos expresar lo que sentimos y pensamos sin alterar a los dem\u00e1s. Por qu\u00e9 hay situaciones",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.459Z",
+        "created_date": "2017-05-24T18:30:24.459Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 252
+    },
+    "model": "meds.theme",
+    "pk": 59
+},
+{
+    "fields": {
+        "name": "En qu\u00e9 momentos y situaciones debemos tomar decisiones. C\u00f3mo podemos saber si lo que elegimos es lo mejor. Qu\u00e9 prioridades conviene considerar al tomar una decisi\u00f3n. Cu\u00e1l es mi responsabilidad al elegir entre varias opciones.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.461Z",
+        "created_date": "2017-05-24T18:30:24.461Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 252
+    },
+    "model": "meds.theme",
+    "pk": 60
+},
+{
+    "fields": {
+        "name": "Qu\u00e9 implica resolver un conflicto. Qu\u00e9 formas pac\u00edficas existen para resolver conflictos. Por qu\u00e9 el respeto a los derechos humanos es un par\u00e1metro para la soluci\u00f3n de conflictos.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.462Z",
+        "created_date": "2017-05-24T18:30:24.462Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 255
+    },
+    "model": "meds.theme",
+    "pk": 61
+},
+{
+    "fields": {
+        "name": "Coordenadas geogr\u00e1ficas: latitud",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.464Z",
+        "created_date": "2017-05-24T18:30:24.464Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 256
+    },
+    "model": "meds.theme",
+    "pk": 62
+},
+{
+    "fields": {
+        "name": "Principales c\u00edrculos",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.465Z",
+        "created_date": "2017-05-24T18:30:24.465Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 256
+    },
+    "model": "meds.theme",
+    "pk": 63
+},
+{
+    "fields": {
+        "name": "Los intereses extranjeros y el reconocimiento de M\u00e9xico.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.467Z",
+        "created_date": "2017-05-24T18:30:24.467Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 261
+    },
+    "model": "meds.theme",
+    "pk": 64
+},
+{
+    "fields": {
+        "name": "Benito Ju\u00e1rez y los liberales.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.469Z",
+        "created_date": "2017-05-24T18:30:24.469Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 262
+    },
+    "model": "meds.theme",
+    "pk": 65
+},
+{
+    "fields": {
+        "name": "La Revoluci\u00f3n Mexicana: El maderismo y el inicio de la Revoluci\u00f3n Mexicana. El desarrollo del movimiento armado y las propuestas de caudillos revolucionarios: Zapata",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.470Z",
+        "created_date": "2017-05-24T18:30:24.470Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 263
+    },
+    "model": "meds.theme",
+    "pk": 66
+},
+{
+    "fields": {
+        "name": "Expansi\u00f3n urbana",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.471Z",
+        "created_date": "2017-05-24T18:30:24.471Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 265
+    },
+    "model": "meds.theme",
+    "pk": 67
+},
+{
+    "fields": {
+        "name": "Conocimiento y uso de unidades est\u00e1ndar de capacidad y peso: el litro",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.473Z",
+        "created_date": "2017-05-24T18:30:24.473Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 241
+    },
+    "model": "meds.theme",
+    "pk": 68
+},
+{
+    "fields": {
+        "name": "Identificaci\u00f3n de rectas paralelas",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.474Z",
+        "created_date": "2017-05-24T18:30:24.474Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 241
+    },
+    "model": "meds.theme",
+    "pk": 69
+},
+{
+    "fields": {
+        "name": "Lectura de planos y mapas viales. Interpretaci\u00f3n y dise\u00f1o de trayectorias.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.476Z",
+        "created_date": "2017-05-24T18:30:24.476Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 241
+    },
+    "model": "meds.theme",
+    "pk": 70
+},
+{
+    "fields": {
+        "name": "Construcci\u00f3n y uso de una f\u00f3rmula para calcular el \u00e1rea de paralelogramos (rombo y romboide).",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.477Z",
+        "created_date": "2017-05-24T18:30:24.477Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 242
+    },
+    "model": "meds.theme",
+    "pk": 71
+},
+{
+    "fields": {
+        "name": "Localizaci\u00f3n y trazo de las alturas en diferentes tri\u00e1ngulos.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.479Z",
+        "created_date": "2017-05-24T18:30:24.479Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 242
+    },
+    "model": "meds.theme",
+    "pk": 72
+},
+{
+    "fields": {
+        "name": "An\u00e1lisis de procedimientos para resolver problemas de proporcionalidad del tipo valor faltante (suma t\u00e9rmino a t\u00e9rmino",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.480Z",
+        "created_date": "2017-05-24T18:30:24.480Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 243
+    },
+    "model": "meds.theme",
+    "pk": 73
+},
+{
+    "fields": {
+        "name": "Comparaci\u00f3n de fracciones con distinto denominador",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.482Z",
+        "created_date": "2017-05-24T18:30:24.482Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 243
+    },
+    "model": "meds.theme",
+    "pk": 74
+},
+{
+    "fields": {
+        "name": "Construcci\u00f3n y uso de una f\u00f3rmula para calcular el \u00e1rea del tri\u00e1ngulo y el trapecio.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.483Z",
+        "created_date": "2017-05-24T18:30:24.483Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 243
+    },
+    "model": "meds.theme",
+    "pk": 75
+},
+{
+    "fields": {
+        "name": "Descripci\u00f3n oral o escrita de rutas para ir de un lugar a otro.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.485Z",
+        "created_date": "2017-05-24T18:30:24.485Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 243
+    },
+    "model": "meds.theme",
+    "pk": 76
+},
+{
+    "fields": {
+        "name": "An\u00e1lisis de las convenciones para la construcci\u00f3n de gr\u00e1ficas de barras.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.486Z",
+        "created_date": "2017-05-24T18:30:24.486Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 244
+    },
+    "model": "meds.theme",
+    "pk": 77
+},
+{
+    "fields": {
+        "name": "Identificaci\u00f3n de la regularidad en sucesiones con n\u00fameros (incluyendo n\u00fameros fraccionarios) que tengan progresi\u00f3n aritm\u00e9tica",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.488Z",
+        "created_date": "2017-05-24T18:30:24.488Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 244
+    },
+    "model": "meds.theme",
+    "pk": 78
+},
+{
+    "fields": {
+        "name": "Resoluci\u00f3n de problemas en que sea necesaria la conversi\u00f3n entre los m\u00faltiplos y subm\u00faltiplos del metro",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.489Z",
+        "created_date": "2017-05-24T18:30:24.489Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 244
+    },
+    "model": "meds.theme",
+    "pk": 79
+},
+{
+    "fields": {
+        "name": "Resoluci\u00f3n de problemas que impliquen sumas o restas de fracciones comunes con denominadores diferentes.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.491Z",
+        "created_date": "2017-05-24T18:30:24.491Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 244
+    },
+    "model": "meds.theme",
+    "pk": 80
+},
+{
+    "fields": {
+        "name": "Distinci\u00f3n entre c\u00edrculo y circunferencia; su definici\u00f3n y diversas formas de trazo. Identificaci\u00f3n de algunos elementos importantes como radio",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.492Z",
+        "created_date": "2017-05-24T18:30:24.492Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 245
+    },
+    "model": "meds.theme",
+    "pk": 81
+},
+{
+    "fields": {
+        "name": "Valoraci\u00f3n de las acciones para cuidar a los seres vivos actuales.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.494Z",
+        "created_date": "2017-05-24T18:30:24.494Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 287
+    },
+    "model": "meds.theme",
+    "pk": 82
+},
+{
+    "fields": {
+        "name": "Cambios en los seres vivos y en el medio natural a trav\u00e9s de millones de a\u00f1os.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.495Z",
+        "created_date": "2017-05-24T18:30:24.495Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 287
+    },
+    "model": "meds.theme",
+    "pk": 83
+},
+{
+    "fields": {
+        "name": "Causas del calentamiento global: relaci\u00f3n entre la contaminaci\u00f3n del aire y el efecto invernadero",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.497Z",
+        "created_date": "2017-05-24T18:30:24.497Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 287
+    },
+    "model": "meds.theme",
+    "pk": 84
+},
+{
+    "fields": {
+        "name": "Causas y efectos de la contaminaci\u00f3n del aire en el ambiente y la salud humana.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.498Z",
+        "created_date": "2017-05-24T18:30:24.498Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 287
+    },
+    "model": "meds.theme",
+    "pk": 85
+},
+{
+    "fields": {
+        "name": "Causas y consecuencias de la extinci\u00f3n de los seres vivos hace m\u00e1s de 10 000 a\u00f1os y en la actualidad.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.500Z",
+        "created_date": "2017-05-24T18:30:24.500Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null,
+        "block": 287
+    },
+    "model": "meds.theme",
+    "pk": 86
+},
+{
+    "fields": {
+        "name": "Evaluaci\u00f3n de alcances y limitaciones de diferentes acciones nacionales.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.502Z",
+        "created_date": "2017-05-24T18:30:24.502Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null,
+        "block": 287
+    },
+    "model": "meds.theme",
+    "pk": 87
+},
+{
+    "fields": {
+        "name": "Proyecto:Preguntas opcionales:Acciones para cuidar el ambiente.\u00bfDe qu\u00e9 manera la huella ecol\u00f3gica nos permite identificar el impacto de nuestras actividades en el ambiente? \u00bfQu\u00e9 es el calentamiento global y qu\u00e9 puedo hacer para reducirlo?",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.503Z",
+        "created_date": "2017-05-24T18:30:24.503Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null,
+        "block": 287
+    },
+    "model": "meds.theme",
+    "pk": 88
+},
+{
+    "fields": {
+        "name": "Uso de los f\u00f3siles para reconstruir c\u00f3mo eran los seres vivos en la Tierra hace miles y millones de a\u00f1os.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.505Z",
+        "created_date": "2017-05-24T18:30:24.505Z",
+        "is_oficial": true,
+        "position": 8,
+        "slug": null,
+        "block": 287
+    },
+    "model": "meds.theme",
+    "pk": 89
+},
+{
+    "fields": {
+        "name": "Valoraci\u00f3n de las acciones personales para contribuir a la mitigaci\u00f3n de la contaminaci\u00f3n del aire.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.507Z",
+        "created_date": "2017-05-24T18:30:24.507Z",
+        "is_oficial": true,
+        "position": 9,
+        "slug": null,
+        "block": 287
+    },
+    "model": "meds.theme",
+    "pk": 90
+},
+{
+    "fields": {
+        "name": "Alcances y limitaciones de los instrumentos \u00f3pticos.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.509Z",
+        "created_date": "2017-05-24T18:30:24.509Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 289
+    },
+    "model": "meds.theme",
+    "pk": 91
+},
+{
+    "fields": {
+        "name": "Aprovechamiento de las m\u00e1quinas simples en la vida cotidiana.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.511Z",
+        "created_date": "2017-05-24T18:30:24.511Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 289
+    },
+    "model": "meds.theme",
+    "pk": 92
+},
+{
+    "fields": {
+        "name": "Efecto de la fuerza en el funcionamiento de las m\u00e1quinas simples: palanca",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.512Z",
+        "created_date": "2017-05-24T18:30:24.512Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 289
+    },
+    "model": "meds.theme",
+    "pk": 93
+},
+{
+    "fields": {
+        "name": "Funcionamiento de algunos instrumentos \u00f3pticos por medio de la formaci\u00f3n de im\u00e1genes en objetos e instrumentos con espejos y lentes.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.514Z",
+        "created_date": "2017-05-24T18:30:24.514Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 289
+    },
+    "model": "meds.theme",
+    "pk": 94
+},
+{
+    "fields": {
+        "name": "Relaci\u00f3n de la reflexi\u00f3n y refracci\u00f3n de la luz con la formaci\u00f3n de im\u00e1genes en espejos y lentes.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.515Z",
+        "created_date": "2017-05-24T18:30:24.515Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null,
+        "block": 289
+    },
+    "model": "meds.theme",
+    "pk": 95
+},
+{
+    "fields": {
+        "name": "Uso de los instrumentos \u00f3pticos \u2013lupa",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.517Z",
+        "created_date": "2017-05-24T18:30:24.517Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null,
+        "block": 289
+    },
+    "model": "meds.theme",
+    "pk": 96
+},
+{
+    "fields": {
+        "name": "Causas y consecuencias de la extinci\u00f3n de los seres vivos hace m\u00e1s de 10 000 a\u00f1os y en la actualidad.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.518Z",
+        "created_date": "2017-05-24T18:30:24.518Z",
+        "is_oficial": true,
+        "position": 10,
+        "slug": null,
+        "block": 287
+    },
+    "model": "meds.theme",
+    "pk": 97
+},
+{
+    "fields": {
+        "name": "Identificaci\u00f3n de una leyenda o un mito de su comunidad para reconocer el tema y el argumento.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.520Z",
+        "created_date": "2017-05-24T18:30:24.520Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 311
+    },
+    "model": "meds.theme",
+    "pk": 98
+},
+{
+    "fields": {
+        "name": "Creaci\u00f3n de ejercicios r\u00edtmicos en los compases de 3/4 y 4/4 con los valores r\u00edtmicos aprendidos",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.521Z",
+        "created_date": "2017-05-24T18:30:24.521Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 313
+    },
+    "model": "meds.theme",
+    "pk": 99
+},
+{
+    "fields": {
+        "name": "Recopilaci\u00f3n de im\u00e1genes de obra de arte",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.523Z",
+        "created_date": "2017-05-24T18:30:24.523Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 313
+    },
+    "model": "meds.theme",
+    "pk": 100
+},
+{
+    "fields": {
+        "name": "Identificaci\u00f3n de algunos ejemplos de patrimonio intangible (lenguaje",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.525Z",
+        "created_date": "2017-05-24T18:30:24.525Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 315
+    },
+    "model": "meds.theme",
+    "pk": 101
+},
+{
+    "fields": {
+        "name": "Distinci\u00f3n entre informaci\u00f3n relevante e irrelevante para resolver dudas espec\u00edficas. ",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.526Z",
+        "created_date": "2017-05-24T18:30:24.526Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 277
+    },
+    "model": "meds.theme",
+    "pk": 102
+},
+{
+    "fields": {
+        "name": "Notas y diagramas para guiar la escritura.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.527Z",
+        "created_date": "2017-05-24T18:30:24.527Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 277
+    },
+    "model": "meds.theme",
+    "pk": 103
+},
+{
+    "fields": {
+        "name": "Produccio\u0301n de textos escritos considerando al lector potencial.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.529Z",
+        "created_date": "2017-05-24T18:30:24.529Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 277
+    },
+    "model": "meds.theme",
+    "pk": 104
+},
+{
+    "fields": {
+        "name": "Tipos de lenguaje empleado en funcio\u0301n de la audiencia.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.530Z",
+        "created_date": "2017-05-24T18:30:24.530Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 277
+    },
+    "model": "meds.theme",
+    "pk": 105
+},
+{
+    "fields": {
+        "name": "Formas de adaptar el lenguaje seg\u00fan el destinatario.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.532Z",
+        "created_date": "2017-05-24T18:30:24.532Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 278
+    },
+    "model": "meds.theme",
+    "pk": 106
+},
+{
+    "fields": {
+        "name": "Produccio\u0301n de textos escritos considerando al destinatario.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.533Z",
+        "created_date": "2017-05-24T18:30:24.533Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 278
+    },
+    "model": "meds.theme",
+    "pk": 107
+},
+{
+    "fields": {
+        "name": "Empleo de conectivos lo\u0301gicos para ligar los pa\u0301rrafos de un texto (a diferencia de",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.535Z",
+        "created_date": "2017-05-24T18:30:24.535Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 279
+    },
+    "model": "meds.theme",
+    "pk": 108
+},
+{
+    "fields": {
+        "name": "Produccio\u0301n de textos escritos considerando el destinatario potencial.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.536Z",
+        "created_date": "2017-05-24T18:30:24.536Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 279
+    },
+    "model": "meds.theme",
+    "pk": 109
+},
+{
+    "fields": {
+        "name": "Empleo de recursos literarios para expresar sentimientos y emociones.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.538Z",
+        "created_date": "2017-05-24T18:30:24.538Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 280
+    },
+    "model": "meds.theme",
+    "pk": 110
+},
+{
+    "fields": {
+        "name": "Informacio\u0301n pertinente sobre un tema (fotos",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.539Z",
+        "created_date": "2017-05-24T18:30:24.539Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 280
+    },
+    "model": "meds.theme",
+    "pk": 111
+},
+{
+    "fields": {
+        "name": "Palabras y frases adjetivas para describir adecuadamente personas y situaciones.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.541Z",
+        "created_date": "2017-05-24T18:30:24.541Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 280
+    },
+    "model": "meds.theme",
+    "pk": 112
+},
+{
+    "fields": {
+        "name": "S\u00edntesis de informaci\u00f3n sin perder el significado original.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.542Z",
+        "created_date": "2017-05-24T18:30:24.542Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 280
+    },
+    "model": "meds.theme",
+    "pk": 113
+},
+{
+    "fields": {
+        "name": "Qu\u00e9 acciones han realizado las autoridades del gobierno del lugar donde vivimos para promover bienestar colectivo. Qu\u00e9 acciones faltan para mejorar las condiciones de la comunidad.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.544Z",
+        "created_date": "2017-05-24T18:30:24.544Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 295
+    },
+    "model": "meds.theme",
+    "pk": 114
+},
+{
+    "fields": {
+        "name": "Elementos de los mapas: t\u00edtulo",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.545Z",
+        "created_date": "2017-05-24T18:30:24.545Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 296
+    },
+    "model": "meds.theme",
+    "pk": 115
+},
+{
+    "fields": {
+        "name": "Importancia de las tecnolog\u00edas de la informaci\u00f3n geogr\u00e1fica.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.547Z",
+        "created_date": "2017-05-24T18:30:24.547Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 296
+    },
+    "model": "meds.theme",
+    "pk": 116
+},
+{
+    "fields": {
+        "name": "Movimientos de las placas tect\u00f3nicas y su relaci\u00f3n con la distribuci\u00f3n del relieve de la superficie terrestre.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.548Z",
+        "created_date": "2017-05-24T18:30:24.548Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 296
+    },
+    "model": "meds.theme",
+    "pk": 117
+},
+{
+    "fields": {
+        "name": "Representaciones de la Tierra a lo largo del tiempo.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.550Z",
+        "created_date": "2017-05-24T18:30:24.550Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 296
+    },
+    "model": "meds.theme",
+    "pk": 118
+},
+{
+    "fields": {
+        "name": "Tecnolog\u00edas para el manejo de informaci\u00f3n geogr\u00e1fica: fotograf\u00edas a\u00e9reas",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.551Z",
+        "created_date": "2017-05-24T18:30:24.551Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null,
+        "block": 296
+    },
+    "model": "meds.theme",
+    "pk": 119
+},
+{
+    "fields": {
+        "name": "El islam y la expansi\u00f3n musulmana: Mahoma y el nacimiento del islam.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.553Z",
+        "created_date": "2017-05-24T18:30:24.553Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 304
+    },
+    "model": "meds.theme",
+    "pk": 120
+},
+{
+    "fields": {
+        "name": "El encuentro de Am\u00e9rica y Europa.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.554Z",
+        "created_date": "2017-05-24T18:30:24.554Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 305
+    },
+    "model": "meds.theme",
+    "pk": 121
+},
+{
+    "fields": {
+        "name": "C\u00e1lculo de distancias reales a trav\u00e9s de la medici\u00f3n aproximada de un punto a otro en un mapa.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.556Z",
+        "created_date": "2017-05-24T18:30:24.556Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 281
+    },
+    "model": "meds.theme",
+    "pk": 122
+},
+{
+    "fields": {
+        "name": "Identificaci\u00f3n de los ejes de simetr\u00eda de una figura (poligonal o no) y figuras sim\u00e9tricas entre s\u00ed",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.557Z",
+        "created_date": "2017-05-24T18:30:24.557Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 281
+    },
+    "model": "meds.theme",
+    "pk": 123
+},
+{
+    "fields": {
+        "name": "Lectura de datos contenidos en tablas y gr\u00e1ficas circulares",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.559Z",
+        "created_date": "2017-05-24T18:30:24.559Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 281
+    },
+    "model": "meds.theme",
+    "pk": 124
+},
+{
+    "fields": {
+        "name": "Lectura",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.560Z",
+        "created_date": "2017-05-24T18:30:24.560Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 281
+    },
+    "model": "meds.theme",
+    "pk": 125
+},
+{
+    "fields": {
+        "name": "Resoluci\u00f3n de problemas aditivos con n\u00fameros naturales",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.562Z",
+        "created_date": "2017-05-24T18:30:24.562Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null,
+        "block": 281
+    },
+    "model": "meds.theme",
+    "pk": 126
+},
+{
+    "fields": {
+        "name": "Definici\u00f3n y distinci\u00f3n entre prismas y pir\u00e1mides",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.563Z",
+        "created_date": "2017-05-24T18:30:24.563Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 282
+    },
+    "model": "meds.theme",
+    "pk": 127
+},
+{
+    "fields": {
+        "name": "Resoluci\u00f3n",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.564Z",
+        "created_date": "2017-05-24T18:30:24.564Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 282
+    },
+    "model": "meds.theme",
+    "pk": 128
+},
+{
+    "fields": {
+        "name": "Comparaci\u00f3n de razones en casos simples.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.566Z",
+        "created_date": "2017-05-24T18:30:24.566Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 283
+    },
+    "model": "meds.theme",
+    "pk": 129
+},
+{
+    "fields": {
+        "name": "Identificaci\u00f3n de una fracci\u00f3n o un decimal entre dos fracciones o decimales dados. Acercamiento a la propiedad de densidad de los racionales",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.567Z",
+        "created_date": "2017-05-24T18:30:24.567Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 283
+    },
+    "model": "meds.theme",
+    "pk": 130
+},
+{
+    "fields": {
+        "name": "Representaci\u00f3n gr\u00e1fica de pares ordenados en el primer cuadrante de un sistema de coordenadas cartesianas.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.569Z",
+        "created_date": "2017-05-24T18:30:24.569Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 283
+    },
+    "model": "meds.theme",
+    "pk": 131
+},
+{
+    "fields": {
+        "name": "Anticipaci\u00f3n y comprobaci\u00f3n de configuraciones geom\u00e9tricas que permiten construir un cuerpo geom\u00e9trico.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.570Z",
+        "created_date": "2017-05-24T18:30:24.570Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 284
+    },
+    "model": "meds.theme",
+    "pk": 132
+},
+{
+    "fields": {
+        "name": "Comparaci\u00f3n de razones del tipo \u201cpor cada n",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.572Z",
+        "created_date": "2017-05-24T18:30:24.572Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 284
+    },
+    "model": "meds.theme",
+    "pk": 133
+},
+{
+    "fields": {
+        "name": "Armado y desarmado de figuras en otras diferentes. An\u00e1lisis y comparaci\u00f3n del \u00e1rea y el per\u00edmetro de la figura original",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.574Z",
+        "created_date": "2017-05-24T18:30:24.574Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 285
+    },
+    "model": "meds.theme",
+    "pk": 134
+},
+{
+    "fields": {
+        "name": "Determinaci\u00f3n de divisores o m\u00faltiplos comunes a varios n\u00fameros. Identificaci\u00f3n",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.575Z",
+        "created_date": "2017-05-24T18:30:24.575Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 285
+    },
+    "model": "meds.theme",
+    "pk": 135
+},
+{
+    "fields": {
+        "name": "Identificaci\u00f3n de la regularidad en sucesiones con n\u00fameros que tengan progresi\u00f3n geom\u00e9trica",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.577Z",
+        "created_date": "2017-05-24T18:30:24.577Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null,
+        "block": 245
+    },
+    "model": "meds.theme",
+    "pk": 136
+},
+{
+    "fields": {
+        "name": "Resoluci\u00f3n de problemas que impliquen una divisi\u00f3n de n\u00famero fraccionario o decimal entre un n\u00famero natural.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.578Z",
+        "created_date": "2017-05-24T18:30:24.578Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 285
+    },
+    "model": "meds.theme",
+    "pk": 137
+},
+{
+    "fields": {
+        "name": "Estrategias para la organizaci\u00f3n y difusi\u00f3n de la informaci\u00f3n (seleccionar",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.579Z",
+        "created_date": "2017-05-24T18:30:24.579Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null,
+        "block": 237
+    },
+    "model": "meds.theme",
+    "pk": 138
+},
+{
+    "fields": {
+        "name": "Organizaci\u00f3n de las ideas al redactar",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.581Z",
+        "created_date": "2017-05-24T18:30:24.581Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null,
+        "block": 237
+    },
+    "model": "meds.theme",
+    "pk": 139
+},
+{
+    "fields": {
+        "name": "Informacio\u0301n que se presenta en cuadros sino\u0301pticos y mapas conceptuales",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.582Z",
+        "created_date": "2017-05-24T18:30:24.582Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null,
+        "block": 238
+    },
+    "model": "meds.theme",
+    "pk": 140
+},
+{
+    "fields": {
+        "name": "Criterios de clasificacio\u0301n de un conjunto de informaciones",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.584Z",
+        "created_date": "2017-05-24T18:30:24.584Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null,
+        "block": 238
+    },
+    "model": "meds.theme",
+    "pk": 141
+},
+{
+    "fields": {
+        "name": "Fundamentacio\u0301n de los argumentos a partir de datos",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.586Z",
+        "created_date": "2017-05-24T18:30:24.586Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null,
+        "block": 238
+    },
+    "model": "meds.theme",
+    "pk": 142
+},
+{
+    "fields": {
+        "name": "Diferencias y semejanzas en el tratamiento de un mismo tema",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.587Z",
+        "created_date": "2017-05-24T18:30:24.587Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 279
+    },
+    "model": "meds.theme",
+    "pk": 143
+},
+{
+    "fields": {
+        "name": "Nexos (por ejemplo: por lo tanto",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.588Z",
+        "created_date": "2017-05-24T18:30:24.588Z",
+        "is_oficial": true,
+        "position": 8,
+        "slug": null,
+        "block": 237
+    },
+    "model": "meds.theme",
+    "pk": 144
+},
+{
+    "fields": {
+        "name": "Oraciones complejas y nexos de subordinacio\u0301n",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.590Z",
+        "created_date": "2017-05-24T18:30:24.590Z",
+        "is_oficial": true,
+        "position": 8,
+        "slug": null,
+        "block": 238
+    },
+    "model": "meds.theme",
+    "pk": 145
+},
+{
+    "fields": {
+        "name": "Conectivos causales",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.591Z",
+        "created_date": "2017-05-24T18:30:24.591Z",
+        "is_oficial": true,
+        "position": 9,
+        "slug": null,
+        "block": 238
+    },
+    "model": "meds.theme",
+    "pk": 146
+},
+{
+    "fields": {
+        "name": "Nexos para dar coherencia a los textos",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.593Z",
+        "created_date": "2017-05-24T18:30:24.593Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null,
+        "block": 276
+    },
+    "model": "meds.theme",
+    "pk": 147
+},
+{
+    "fields": {
+        "name": "Nexos y frases para denotar opinio\u0301n",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.594Z",
+        "created_date": "2017-05-24T18:30:24.594Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null,
+        "block": 277
+    },
+    "model": "meds.theme",
+    "pk": 148
+},
+{
+    "fields": {
+        "name": "Formas de redactar una opinio\u0301n fundamentada en argumentos",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.596Z",
+        "created_date": "2017-05-24T18:30:24.596Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 278
+    },
+    "model": "meds.theme",
+    "pk": 149
+},
+{
+    "fields": {
+        "name": "Uso de verbos y expresiones para reportar hechos y opiniones",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.598Z",
+        "created_date": "2017-05-24T18:30:24.598Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null,
+        "block": 278
+    },
+    "model": "meds.theme",
+    "pk": 150
+},
+{
+    "fields": {
+        "name": "Resoluci\u00f3n de problemas que impliquen una divisi\u00f3n de n\u00fameros naturales con cociente decimal.",
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:24.599Z",
+        "created_date": "2017-05-24T18:30:24.599Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null,
+        "block": 242
+    },
+    "model": "meds.theme",
+    "pk": 151
+}
+]

@@ -1,0 +1,74 @@
+[
+{
+    "pk": 1,
+    "model": "meds.medtype",
+    "fields": {
+        "name": "Interactivo",
+        "is_active": true,
+        "created_date": "2017-05-24T12:00:00.000Z",
+        "last_modified": "2017-05-24T12:00:00.000Z"
+    }
+},
+{
+    "pk": 2,
+    "model": "meds.medtype",
+    "fields": {
+        "name": "Video",
+        "is_active": true,
+        "created_date": "2017-05-24T12:00:00.000Z",
+        "last_modified": "2017-05-24T12:00:00.000Z"
+    }
+},
+{
+    "pk": 3,
+    "model": "meds.medtype",
+    "fields": {
+        "name": "Aplicaciones",
+        "is_active": true,
+        "created_date": "2017-05-24T12:00:00.000Z",
+        "last_modified": "2017-05-24T12:00:00.000Z"
+    }
+},
+{
+    "pk": 4,
+    "model": "meds.medtype",
+    "fields": {
+        "name": "Audio",
+        "is_active": true,
+        "created_date": "2017-05-24T12:00:00.000Z",
+        "last_modified": "2017-05-24T12:00:00.000Z"
+    }
+},
+{
+    "pk": 5,
+    "model": "meds.medtype",
+    "fields": {
+        "name": "Documento",
+        "is_active": true,
+        "created_date": "2017-05-24T12:00:00.000Z",
+        "last_modified": "2017-05-24T12:00:00.000Z"
+    }
+},
+{
+    "pk": 1,
+    "model": "meds.medsubtype",
+    "fields": {
+        "name": "Podcast",
+        "is_active": true,
+        "med_type": 4,
+        "created_date": "2017-05-24T12:00:00.000Z",
+        "last_modified": "2017-05-24T12:00:00.000Z"
+    }
+},
+{
+    "pk": 2,
+    "model": "meds.medsubtype",
+    "fields": {
+        "name": "Canción",
+        "is_active": true,
+        "med_type": 4,
+        "created_date": "2017-05-24T12:00:00.000Z",
+        "last_modified": "2017-05-24T12:00:00.000Z"
+    }
+}
+]

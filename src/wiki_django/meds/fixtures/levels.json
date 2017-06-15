@@ -1,0 +1,202 @@
+[
+{
+    "pk": 1,
+    "model": "meds.level",
+    "fields": {
+        "name": "Preescolar",
+        "position": 1,
+        "is_active": false,
+        "is_oficial": true,
+        "slug": "preescolar"
+    }
+},
+{
+    "pk": 2,
+    "model": "meds.level",
+    "fields": {
+        "name": "Primaria",
+        "position": 2,
+        "is_active": true,
+        "is_oficial": true,
+        "slug": "primaria"
+    }
+},
+{
+    "pk": 3,
+    "model": "meds.level",
+    "fields": {
+        "name": "Secundaria",
+        "position": 3,
+        "is_active": false,
+        "is_oficial": true,
+        "slug": "secundaria"
+    }
+},
+{
+    "pk": 4,
+    "model": "meds.level",
+    "fields": {
+        "name": "Familia",
+        "position": 4,
+        "is_active": true,
+        "is_oficial": false,
+        "slug": "familia"
+    }
+},
+{
+    "pk": 1,
+    "model": "meds.grade",
+    "fields": {
+        "name": "1",
+        "position": 1,
+        "is_active": false,
+        "is_oficial": true,
+        "slug": "1ro",
+        "level_id": 1
+    }
+},
+{
+    "pk": 2,
+    "model": "meds.grade",
+    "fields": {
+        "name": "2",
+        "position": 2,
+        "is_active": false,
+        "is_oficial": true,
+        "slug": "2do",
+        "level_id": 1
+    }
+},
+{
+    "pk": 3,
+    "model": "meds.grade",
+    "fields": {
+        "name": "3",
+        "position": 3,
+        "is_active": false,
+        "is_oficial": true,
+        "slug": "3ro",
+        "level_id": 1
+    }
+},
+{
+    "pk": 4,
+    "model": "meds.grade",
+    "fields": {
+        "name": "1",
+        "position": 1,
+        "is_active": false,
+        "is_oficial": true,
+        "slug": "1ro",
+        "level_id": 2
+    }
+},
+{
+    "pk": 5,
+    "model": "meds.grade",
+    "fields": {
+        "name": "2",
+        "position": 2,
+        "is_active": false,
+        "is_oficial": true,
+        "slug": "2do",
+        "level_id": 2
+    }
+},
+{
+    "pk": 6,
+    "model": "meds.grade",
+    "fields": {
+        "name": "3",
+        "position": 3,
+        "is_active": false,
+        "is_oficial": true,
+        "slug": "3ro",
+        "level_id": 2
+    }
+},
+{
+    "pk": 7,
+    "model": "meds.grade",
+    "fields": {
+        "name": "4",
+        "position": 4,
+        "is_active": false,
+        "is_oficial": true,
+        "slug": "4to",
+        "level_id": 2
+    }
+},
+{
+    "pk": 8,
+    "model": "meds.grade",
+    "fields": {
+        "name": "5",
+        "position": 5,
+        "is_active": true,
+        "is_oficial": true,
+        "slug": "5to",
+        "level_id": 2
+    }
+},
+{
+    "pk": 9,
+    "model": "meds.grade",
+    "fields": {
+        "name": "6",
+        "position": 6,
+        "is_active": true,
+        "is_oficial": true,
+        "slug": "6to",
+        "level_id": 2
+    }
+},
+{
+    "pk": 10,
+    "model": "meds.grade",
+    "fields": {
+        "name": "1",
+        "position": 1,
+        "is_active": false,
+        "is_oficial": true,
+        "slug": "1ro",
+        "level_id": 3
+    }
+},
+{
+    "pk": 11,
+    "model": "meds.grade",
+    "fields": {
+        "name": "2",
+        "position": 2,
+        "is_active": false,
+        "is_oficial": true,
+        "slug": "2do",
+        "level_id": 3
+    }
+},
+{
+    "pk": 12,
+    "model": "meds.grade",
+    "fields": {
+        "name": "3",
+        "position": 3,
+        "is_active": false,
+        "is_oficial": true,
+        "slug": "3ro",
+        "level_id": 3
+    }
+},
+{
+    "pk": 13,
+    "model": "meds.grade",
+    "fields": {
+        "name": "-",
+        "position": 1,
+        "is_active": true,
+        "is_oficial": false,
+        "slug": "grado-familia",
+        "level_id": 4
+    }
+}
+]

@@ -1,0 +1,54 @@
+version: "2"
+services:
+    python:
+      image: python:2.7
+      working_dir: /app/web
+      hostname: "${PROJECT_NAME}_django"
+      container_name: "${PROJECT_NAME}_django"
+      expose:
+          - "8000"
+      ports:
+        - "${PYTHON_PORT}:8000"
+      volumes:
+        - ./src:/app
+      entrypoint: /app/entrypoint.sh ${REQUERIMENTS_FILE}
+      links:
+        - postgres:postgres
+        - redis:redis
+      environment:
+        - "DJANGO_SETTINGS_MODULE=${ENVIRONMENT_SETTINGS}"
+
+    postgresql:
+      image: postgres:9.4
+      hostname: "${PROJECT_NAME}_db"
+      container_name: "${PROJECT_NAME}_db"
+      environment:
+        POSTGRES_PASSWORD: "${DB_PASSWORD}"
+        POSTGRES_DB: "${DB_NAME}"
+        POSTGRES_USER: "${DB_USER}"
+      volumes_from:
+        - data
+
+    data:
+      image: postgres:9.4
+      hostname: "${PROJECT_NAME}_db_container"
+      container_name: "${PROJECT_NAME}_db_container"
+      volumes:
+        - /var/lib/postgresql/data
+      command: "true"
+
+    redis:
+      image: redis
+      hostname: "${PROJECT_NAME}_redis"
+      container_name: "${PROJECT_NAME}_redis"
+
+    pg-admin:
+        image: fenglc/pgadmin4
+        hostname: "${PROJECT_NAME}_db_admin"
+        container_name: "${PROJECT_NAME}_db_admin"
+        ports:
+            - 5050:5050
+        links:
+            - postgresql:postgres
+        volumes:
+            - /etc/localtime:/etc/localtime

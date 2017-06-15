@@ -1,0 +1,1234 @@
+[
+{
+    "fields": {
+        "name": "Lenguaje y comunicaci\u00f3n",
+        "grade": 1,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.508Z",
+        "created_date": "2017-05-24T18:30:11.508Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 1
+},
+{
+    "fields": {
+        "name": "Pensamiento matem\u00e1tico",
+        "grade": 1,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.515Z",
+        "created_date": "2017-05-24T18:30:11.515Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 2
+},
+{
+    "fields": {
+        "name": "Exploraci\u00f3n y conocimiento del mundo",
+        "grade": 1,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.521Z",
+        "created_date": "2017-05-24T18:30:11.521Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 3
+},
+{
+    "fields": {
+        "name": "Desarrollo f\u00edsico y salud",
+        "grade": 1,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.526Z",
+        "created_date": "2017-05-24T18:30:11.526Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 4
+},
+{
+    "fields": {
+        "name": "Desarrollo personal y social",
+        "grade": 1,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.532Z",
+        "created_date": "2017-05-24T18:30:11.532Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 5
+},
+{
+    "fields": {
+        "name": "Expresi\u00f3n y apreciaci\u00f3n art\u00edsticas",
+        "grade": 1,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.538Z",
+        "created_date": "2017-05-24T18:30:11.538Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 6
+},
+{
+    "fields": {
+        "name": "Lenguaje y comunicaci\u00f3n",
+        "grade": 2,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.543Z",
+        "created_date": "2017-05-24T18:30:11.543Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 7
+},
+{
+    "fields": {
+        "name": "Pensamiento matem\u00e1tico",
+        "grade": 2,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.548Z",
+        "created_date": "2017-05-24T18:30:11.548Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 8
+},
+{
+    "fields": {
+        "name": "Exploraci\u00f3n y conocimiento del mundo",
+        "grade": 2,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.553Z",
+        "created_date": "2017-05-24T18:30:11.553Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 9
+},
+{
+    "fields": {
+        "name": "Desarrollo f\u00edsico y salud",
+        "grade": 2,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.559Z",
+        "created_date": "2017-05-24T18:30:11.559Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 10
+},
+{
+    "fields": {
+        "name": "Desarrollo personal y social",
+        "grade": 2,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.564Z",
+        "created_date": "2017-05-24T18:30:11.564Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 11
+},
+{
+    "fields": {
+        "name": "Expresi\u00f3n y apreciaci\u00f3n art\u00edsticas",
+        "grade": 2,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.570Z",
+        "created_date": "2017-05-24T18:30:11.570Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 12
+},
+{
+    "fields": {
+        "name": "Lenguaje y comunicaci\u00f3n",
+        "grade": 3,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.575Z",
+        "created_date": "2017-05-24T18:30:11.575Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 13
+},
+{
+    "fields": {
+        "name": "Pensamiento matem\u00e1tico",
+        "grade": 3,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.580Z",
+        "created_date": "2017-05-24T18:30:11.580Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 14
+},
+{
+    "fields": {
+        "name": "Exploraci\u00f3n y conocimiento del mundo",
+        "grade": 3,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.586Z",
+        "created_date": "2017-05-24T18:30:11.586Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 15
+},
+{
+    "fields": {
+        "name": "Ingl\u00e9s",
+        "grade": 3,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.591Z",
+        "created_date": "2017-05-24T18:30:11.591Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 16
+},
+{
+    "fields": {
+        "name": "Desarrollo f\u00edsico y salud",
+        "grade": 3,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.596Z",
+        "created_date": "2017-05-24T18:30:11.596Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 17
+},
+{
+    "fields": {
+        "name": "Desarrollo personal y social",
+        "grade": 3,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.602Z",
+        "created_date": "2017-05-24T18:30:11.602Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 18
+},
+{
+    "fields": {
+        "name": "Expresi\u00f3n y apreciaci\u00f3n art\u00edsticas",
+        "grade": 3,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.607Z",
+        "created_date": "2017-05-24T18:30:11.606Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 19
+},
+{
+    "fields": {
+        "name": "Espa\u00f1ol",
+        "grade": 4,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.612Z",
+        "created_date": "2017-05-24T18:30:11.612Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 20
+},
+{
+    "fields": {
+        "name": "Matem\u00e1ticas",
+        "grade": 4,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.617Z",
+        "created_date": "2017-05-24T18:30:11.617Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 21
+},
+{
+    "fields": {
+        "name": "Exploraci\u00f3n de la Naturaleza y la Sociedad",
+        "grade": 4,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.622Z",
+        "created_date": "2017-05-24T18:30:11.622Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 22
+},
+{
+    "fields": {
+        "name": "Formaci\u00f3n C\u00edvica y \u00c9tica",
+        "grade": 4,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.627Z",
+        "created_date": "2017-05-24T18:30:11.627Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 23
+},
+{
+    "fields": {
+        "name": "Ingl\u00e9s",
+        "grade": 4,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.633Z",
+        "created_date": "2017-05-24T18:30:11.633Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 24
+},
+{
+    "fields": {
+        "name": "Educaci\u00f3n F\u00edsica",
+        "grade": 4,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.638Z",
+        "created_date": "2017-05-24T18:30:11.638Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 25
+},
+{
+    "fields": {
+        "name": "Educaci\u00f3n Art\u00edstica",
+        "grade": 4,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.643Z",
+        "created_date": "2017-05-24T18:30:11.643Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 26
+},
+{
+    "fields": {
+        "name": "Espa\u00f1ol",
+        "grade": 5,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.649Z",
+        "created_date": "2017-05-24T18:30:11.649Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 27
+},
+{
+    "fields": {
+        "name": "Matem\u00e1ticas",
+        "grade": 5,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.654Z",
+        "created_date": "2017-05-24T18:30:11.654Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 28
+},
+{
+    "fields": {
+        "name": "Exploraci\u00f3n de la Naturaleza y la Sociedad",
+        "grade": 5,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.659Z",
+        "created_date": "2017-05-24T18:30:11.659Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 29
+},
+{
+    "fields": {
+        "name": "Formaci\u00f3n C\u00edvica y \u00c9tica",
+        "grade": 5,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.665Z",
+        "created_date": "2017-05-24T18:30:11.665Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 30
+},
+{
+    "fields": {
+        "name": "Ingl\u00e9s",
+        "grade": 5,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.670Z",
+        "created_date": "2017-05-24T18:30:11.670Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 31
+},
+{
+    "fields": {
+        "name": "Educaci\u00f3n F\u00edsica",
+        "grade": 5,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.675Z",
+        "created_date": "2017-05-24T18:30:11.675Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 32
+},
+{
+    "fields": {
+        "name": "Educaci\u00f3n Art\u00edstica",
+        "grade": 5,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.680Z",
+        "created_date": "2017-05-24T18:30:11.680Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 33
+},
+{
+    "fields": {
+        "name": "Espa\u00f1ol",
+        "grade": 6,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.686Z",
+        "created_date": "2017-05-24T18:30:11.686Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 34
+},
+{
+    "fields": {
+        "name": "Matem\u00e1ticas",
+        "grade": 6,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.691Z",
+        "created_date": "2017-05-24T18:30:11.691Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 35
+},
+{
+    "fields": {
+        "name": "Ciencias Naturales",
+        "grade": 6,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.696Z",
+        "created_date": "2017-05-24T18:30:11.696Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 36
+},
+{
+    "fields": {
+        "name": "Formaci\u00f3n C\u00edvica y \u00c9tica",
+        "grade": 6,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.701Z",
+        "created_date": "2017-05-24T18:30:11.701Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 37
+},
+{
+    "fields": {
+        "name": "Ingl\u00e9s",
+        "grade": 6,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.706Z",
+        "created_date": "2017-05-24T18:30:11.706Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 38
+},
+{
+    "fields": {
+        "name": "Educaci\u00f3n F\u00edsica",
+        "grade": 6,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.712Z",
+        "created_date": "2017-05-24T18:30:11.712Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 39
+},
+{
+    "fields": {
+        "name": "Educaci\u00f3n Art\u00edstica",
+        "grade": 6,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.717Z",
+        "created_date": "2017-05-24T18:30:11.717Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 40
+},
+{
+    "fields": {
+        "name": "Espa\u00f1ol",
+        "grade": 7,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.722Z",
+        "created_date": "2017-05-24T18:30:11.722Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 41
+},
+{
+    "fields": {
+        "name": "Matem\u00e1ticas",
+        "grade": 7,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.728Z",
+        "created_date": "2017-05-24T18:30:11.728Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 42
+},
+{
+    "fields": {
+        "name": "Ciencias Naturales",
+        "grade": 7,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.733Z",
+        "created_date": "2017-05-24T18:30:11.733Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 43
+},
+{
+    "fields": {
+        "name": "Formaci\u00f3n C\u00edvica y \u00c9tica",
+        "grade": 7,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.741Z",
+        "created_date": "2017-05-24T18:30:11.741Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 44
+},
+{
+    "fields": {
+        "name": "Geograf\u00eda",
+        "grade": 7,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.747Z",
+        "created_date": "2017-05-24T18:30:11.746Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 45
+},
+{
+    "fields": {
+        "name": "Historia",
+        "grade": 7,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.752Z",
+        "created_date": "2017-05-24T18:30:11.752Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 46
+},
+{
+    "fields": {
+        "name": "Ingl\u00e9s",
+        "grade": 7,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.757Z",
+        "created_date": "2017-05-24T18:30:11.757Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 47
+},
+{
+    "fields": {
+        "name": "Espa\u00f1ol",
+        "grade": 8,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.764Z",
+        "created_date": "2017-05-24T18:30:11.764Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 48
+},
+{
+    "fields": {
+        "name": "Matem\u00e1ticas",
+        "grade": 8,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.770Z",
+        "created_date": "2017-05-24T18:30:11.770Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 49
+},
+{
+    "fields": {
+        "name": "Ciencias Naturales",
+        "grade": 8,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.776Z",
+        "created_date": "2017-05-24T18:30:11.776Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 50
+},
+{
+    "fields": {
+        "name": "Formaci\u00f3n C\u00edvica y \u00c9tica",
+        "grade": 8,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.781Z",
+        "created_date": "2017-05-24T18:30:11.781Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 51
+},
+{
+    "fields": {
+        "name": "Geograf\u00eda",
+        "grade": 8,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.787Z",
+        "created_date": "2017-05-24T18:30:11.787Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 52
+},
+{
+    "fields": {
+        "name": "Historia",
+        "grade": 8,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.792Z",
+        "created_date": "2017-05-24T18:30:11.792Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 53
+},
+{
+    "fields": {
+        "name": "Ingl\u00e9s",
+        "grade": 8,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.797Z",
+        "created_date": "2017-05-24T18:30:11.797Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 54
+},
+{
+    "fields": {
+        "name": "Educaci\u00f3n Art\u00edstica",
+        "grade": 8,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.802Z",
+        "created_date": "2017-05-24T18:30:11.802Z",
+        "is_oficial": true,
+        "position": 8,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 55
+},
+{
+    "fields": {
+        "name": "Espa\u00f1ol",
+        "grade": 9,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.808Z",
+        "created_date": "2017-05-24T18:30:11.808Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 56
+},
+{
+    "fields": {
+        "name": "Matem\u00e1ticas",
+        "grade": 9,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.813Z",
+        "created_date": "2017-05-24T18:30:11.813Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 57
+},
+{
+    "fields": {
+        "name": "Ciencias Naturales",
+        "grade": 9,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.818Z",
+        "created_date": "2017-05-24T18:30:11.818Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 58
+},
+{
+    "fields": {
+        "name": "Formaci\u00f3n C\u00edvica y \u00c9tica",
+        "grade": 9,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.824Z",
+        "created_date": "2017-05-24T18:30:11.824Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 59
+},
+{
+    "fields": {
+        "name": "Geograf\u00eda",
+        "grade": 9,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.829Z",
+        "created_date": "2017-05-24T18:30:11.829Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 60
+},
+{
+    "fields": {
+        "name": "Historia",
+        "grade": 9,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.833Z",
+        "created_date": "2017-05-24T18:30:11.833Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 61
+},
+{
+    "fields": {
+        "name": "Ingl\u00e9s",
+        "grade": 9,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.839Z",
+        "created_date": "2017-05-24T18:30:11.839Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 62
+},
+{
+    "fields": {
+        "name": "Educaci\u00f3n Art\u00edstica",
+        "grade": 9,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.845Z",
+        "created_date": "2017-05-24T18:30:11.845Z",
+        "is_oficial": true,
+        "position": 8,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 63
+},
+{
+    "fields": {
+        "name": "Espa\u00f1ol",
+        "grade": 10,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.849Z",
+        "created_date": "2017-05-24T18:30:11.849Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 64
+},
+{
+    "fields": {
+        "name": "Matem\u00e1ticas",
+        "grade": 10,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.855Z",
+        "created_date": "2017-05-24T18:30:11.855Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 65
+},
+{
+    "fields": {
+        "name": "Ciencias: \u00c9nfasis en Biolog\u00eda",
+        "grade": 10,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.860Z",
+        "created_date": "2017-05-24T18:30:11.860Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 66
+},
+{
+    "fields": {
+        "name": "Geograf\u00eda",
+        "grade": 10,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.865Z",
+        "created_date": "2017-05-24T18:30:11.865Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 67
+},
+{
+    "fields": {
+        "name": "Ingl\u00e9s",
+        "grade": 10,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.870Z",
+        "created_date": "2017-05-24T18:30:11.870Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 68
+},
+{
+    "fields": {
+        "name": "Educaci\u00f3n F\u00edsica",
+        "grade": 10,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.876Z",
+        "created_date": "2017-05-24T18:30:11.876Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 69
+},
+{
+    "fields": {
+        "name": "Artes",
+        "grade": 10,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.882Z",
+        "created_date": "2017-05-24T18:30:11.882Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 70
+},
+{
+    "fields": {
+        "name": "Espa\u00f1ol",
+        "grade": 11,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.887Z",
+        "created_date": "2017-05-24T18:30:11.887Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 71
+},
+{
+    "fields": {
+        "name": "Matem\u00e1ticas",
+        "grade": 11,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.893Z",
+        "created_date": "2017-05-24T18:30:11.893Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 72
+},
+{
+    "fields": {
+        "name": "Ciencias: \u00c9nfasis en F\u00edsica",
+        "grade": 11,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.898Z",
+        "created_date": "2017-05-24T18:30:11.898Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 73
+},
+{
+    "fields": {
+        "name": "Formaci\u00f3n C\u00edvica y \u00c9tica",
+        "grade": 11,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.904Z",
+        "created_date": "2017-05-24T18:30:11.904Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 74
+},
+{
+    "fields": {
+        "name": "Historia",
+        "grade": 11,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.909Z",
+        "created_date": "2017-05-24T18:30:11.909Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 75
+},
+{
+    "fields": {
+        "name": "Ingl\u00e9s",
+        "grade": 11,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.915Z",
+        "created_date": "2017-05-24T18:30:11.915Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 76
+},
+{
+    "fields": {
+        "name": "Educaci\u00f3n F\u00edsica",
+        "grade": 11,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.920Z",
+        "created_date": "2017-05-24T18:30:11.920Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 77
+},
+{
+    "fields": {
+        "name": "Espa\u00f1ol",
+        "grade": 12,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.926Z",
+        "created_date": "2017-05-24T18:30:11.926Z",
+        "is_oficial": true,
+        "position": 1,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 78
+},
+{
+    "fields": {
+        "name": "Matem\u00e1ticas",
+        "grade": 12,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.931Z",
+        "created_date": "2017-05-24T18:30:11.931Z",
+        "is_oficial": true,
+        "position": 2,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 79
+},
+{
+    "fields": {
+        "name": "Ciencias: \u00c9nfasis en Qu\u00edmica",
+        "grade": 12,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.936Z",
+        "created_date": "2017-05-24T18:30:11.936Z",
+        "is_oficial": true,
+        "position": 3,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 80
+},
+{
+    "fields": {
+        "name": "Formaci\u00f3n C\u00edvica y \u00c9tica",
+        "grade": 12,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.941Z",
+        "created_date": "2017-05-24T18:30:11.941Z",
+        "is_oficial": true,
+        "position": 4,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 81
+},
+{
+    "fields": {
+        "name": "Historia",
+        "grade": 12,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.948Z",
+        "created_date": "2017-05-24T18:30:11.948Z",
+        "is_oficial": true,
+        "position": 5,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 82
+},
+{
+    "fields": {
+        "name": "Ingl\u00e9s",
+        "grade": 12,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.954Z",
+        "created_date": "2017-05-24T18:30:11.954Z",
+        "is_oficial": true,
+        "position": 6,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 83
+},
+{
+    "fields": {
+        "name": "Educaci\u00f3n F\u00edsica",
+        "grade": 12,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.959Z",
+        "created_date": "2017-05-24T18:30:11.959Z",
+        "is_oficial": true,
+        "position": 7,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 84
+},
+{
+    "fields": {
+        "name": "Sabes Como Ahorrar",
+        "grade": 13,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.966Z",
+        "created_date": "2017-05-24T18:30:11.966Z",
+        "is_oficial": false,
+        "position": 1,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 85
+},
+{
+    "fields": {
+        "name": "Que Hacer En caso de",
+        "grade": 13,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.969Z",
+        "created_date": "2017-05-24T18:30:11.969Z",
+        "is_oficial": false,
+        "position": 2,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 86
+},
+{
+    "fields": {
+        "name": "Vida Saludable",
+        "grade": 13,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.972Z",
+        "created_date": "2017-05-24T18:30:11.972Z",
+        "is_oficial": false,
+        "position": 3,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 87
+},
+{
+    "fields": {
+        "name": "Uso Seguro de la Tecnolog\u00eda",
+        "grade": 13,
+        "is_active": true,
+        "last_modified": "2017-05-24T18:30:11.976Z",
+        "created_date": "2017-05-24T18:30:11.976Z",
+        "is_oficial": false,
+        "position": 4,
+        "slug": null
+    },
+    "model": "meds.subject",
+    "pk": 88
+}
+]
