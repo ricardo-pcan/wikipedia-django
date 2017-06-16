@@ -27,7 +27,7 @@ DEBUG = True
 
 PRODUCTION = False
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost']
 
 
 # Application definition
@@ -48,7 +48,8 @@ THIRD_PARTY_APPS = [
 ]
 
 LOCAL_APPS = [
-    'redsep_offline',
+    'wiki_django',
+    'wiki_django.wikipedias',
 ]
 
 INSTALLED_APPS += THIRD_PARTY_APPS + LOCAL_APPS
@@ -66,7 +67,7 @@ MIDDLEWARE_CLASSES = (
 )
 
 
-ROOT_URLCONF = 'redsep_offline.urls'
+ROOT_URLCONF = 'wiki_django.urls'
 
 TEMPLATES = [
     {
@@ -87,7 +88,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'redsep_offline.wsgi.application'
+WSGI_APPLICATION = 'wiki_django.wsgi.application'
 
 
 # DJango-rest-framework configuration
@@ -110,7 +111,7 @@ REST_FRAMEWORK = {
         'rest_framework.parsers.MultiPartParser'
     ),
     'DEFAULT_PAGINATION_CLASS': (
-        'redsep_offline.utils.pagination.ProjectDefaultPagination'
+        'wiki_django.utils.pagination.ProjectDefaultPagination'
     )
 }
 

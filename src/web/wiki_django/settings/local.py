@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Django development settings for redsep_offline project.
+Django development settings for wiki_django project.
 """
 from . import *  # noqa
 
@@ -27,10 +27,10 @@ MIDDLEWARE_CLASSES += (
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': os.environ.get("DB_DATABASE"),
-        'USER': os.environ.get("DB_USERNAME"),
-        'HOST': os.environ.get("DB_HOST"),
-        'PASSWORD': os.environ.get("DB_PASSWORD"),
+        'NAME': 'wiki_django',
+        'USER':  'wiki_django',
+        'HOST': 'postgresql',
+        'PASSWORD': 'password',
         'PÓRT': 5432
     }
 }

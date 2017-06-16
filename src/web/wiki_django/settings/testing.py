@@ -22,8 +22,8 @@ INSTALLED_APPS += (
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'redsep_offline',
-        'USER': 'vagrant'
+        'NAME': 'wiki_django',
+        'USER': 'wiki_django'
     }
 }
 

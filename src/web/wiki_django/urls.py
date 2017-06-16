@@ -15,8 +15,8 @@ Including another URLconf
 from django.conf import settings
 from django.conf.urls import include, url
 
-from redsep_offline.api import urls as api_urls
-from redsep_offline.views import HomeView
+from wiki_django.api import urls as api_urls
+from wiki_django.views import HomeView
 
 
 urlpatterns = [

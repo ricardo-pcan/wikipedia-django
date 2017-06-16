@@ -15,3 +15,8 @@ python-slugify
 Werkzeug
 django-dotenv
 djangorestframework-jsonapi
+gevent==1.0.2
+pillow==2.9.0
+-i http://pypi.pediapress.com/simple/ pyfribidi --trusted-host pypi.pediapress.com
+-i http://pypi.pediapress.com/simple/ pyfribidi --trusted-host pypi.pediapress.com
+-i http://pypi.pediapress.com/simple/ pyfribidi --trusted-host pypi.pediapress.com
