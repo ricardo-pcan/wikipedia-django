@@ -6,7 +6,6 @@ djangorestframework>=3.3,<3.4
 drf-nested-routers>=0.10,<0.11
 djangorestframework-camel-case
 psycopg2>=2.6,<2.7
-pillow
 
 # Packages
 ipython
@@ -17,6 +16,6 @@ django-dotenv
 djangorestframework-jsonapi
 gevent==1.0.2
 pillow==2.9.0
--i http://pypi.pediapress.com/simple/ pyfribidi --trusted-host pypi.pediapress.com
--i http://pypi.pediapress.com/simple/ pyfribidi --trusted-host pypi.pediapress.com
--i http://pypi.pediapress.com/simple/ pyfribidi --trusted-host pypi.pediapress.com
+mwlib
+mwlib.rl
+pyfribidi
