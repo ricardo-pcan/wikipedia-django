@@ -1,15 +1,16 @@
 # -*- coding: utf-8 -*-
 from wiki_django.api.v1.routers import router
-from wiki_django.core.api import mixins
+from rest_framework.decorators import list_route
 from wiki_django.core.api.viewsets import GenericViewSet
 from subprocess import call
+import random
 from django.http import HttpResponse
 
-class EventViewSet(
-        mixins.ListModelMixin,
+class WikipediaViewSet(
         GenericViewSet):
 
-    def list(self, request, *args, **kwargs):
+    @list_route(methods=['GET'])
+    def get_pdf(self, request, *args, **kwargs):
         """
         Return events list.
         ---
@@ -17,6 +18,7 @@ class EventViewSet(
         parameters:
             - name: fromdate
               description: initial date. Format YYYY-MM-DD
+        print query_params
               paramType: query
               type: string
             - name: place
@@ -40,14 +42,23 @@ class EventViewSet(
             - application/json
         """
 
-        call(["mw-zip", "-c", ":es", "-o", "test.zip", "Éter etílico"])
-        call(["mw-render", "-c", "test.zip", "-o", "test.pdf", "-w", "rl"])
 
-        return HttpResponse("Here's the text of the Web page.")
+        query_params = self.request.query_params
+        title = query_params.get('title', None)
+        hash = random.getrandbits(16)
+        hash = str(hash)
+
+        call(['mw-zip', '-c', ':es', '-o', '/tmp/'+hash+'.zip', title])
+        call(['mw-render', '-c', '/tmp/'+hash+'.zip', '-o', '/tmp/'+hash+'.pdf', '-w', 'rl'])
+
+        with open('/tmp/'+hash+'.pdf', 'rb') as pdf:
+            response = HttpResponse(pdf.read(),content_type='application/pdf')
+            response['Content-Disposition'] = 'filename='+hash+'.pdf'
+            return response
 
 
 router.register(
-    r'events',
-    EventViewSet,
-    base_name="events"
+    r'wikipedias',
+    WikipediaViewSet,
+    base_name="wikipedias"
 )
